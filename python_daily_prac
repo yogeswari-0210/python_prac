@@ -1,0 +1,33 @@
+#  #1st sum
+# sentence = "Emma-is-a-data-scientist"
+
+# words = sentence.split("-")
+# for word in words:
+#     print(word)
+# 2nd sum
+# word= "Python"
+# reverse_word = word[::-1]
+# print(reverse_word)
+#3rd sum
+# const= "Hello World"
+# consonants=0
+# vowels = "aeiouAEIOU"
+# for char in const:
+#     if char not in vowels:
+#         consonants =consonants+1
+# print( consonants)
+#4th sum
+# value = "Python is awesome"
+# result = ""
+# for char in value:
+#     if char != " ":
+#         result =result+ char
+# print(result)
+
+
+
+
+
+
+
+
